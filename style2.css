@@ -1,0 +1,38 @@
+.Poltava{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(217, 223, 222);
+    height: 50px;
+    width: 100%;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    color: rgb(75, 75, 75);
+    border-bottom:2px solid  rgb(0, 143, 24);
+}
+
+.div6-01{
+    margin-bottom: 10px;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(75, 75, 75);
+    border-bottom:2px solid  rgb(0, 143, 24);
+}
+.div6{
+    margin-bottom: 10px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(75, 75, 75);
+    border-bottom:2px solid  rgb(0, 143, 24);
+}
+.div7{
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    color: rgb(75, 75, 75);
+ }
