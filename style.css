@@ -29,3 +29,16 @@
     font-weight: 500;
     margin: 10px;
 }
+.container10{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div10{
+    text-align: center;
+}
+.div12{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+
